@@ -77,11 +77,11 @@ Olá! Sou André, estudante de **Segurança da Informação** (Instituto Infnet)
   <img
     alt="Top Languages"
     height="180"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=8"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=andrecccruz&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=8"
   />
   <img
     alt="GitHub Stats"
     height="180"
-    src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&theme=tokyonight&show_icons=true&hide_border=true&count_private=true"
+    src="https://github-readme-stats.vercel.app/api?username=andrecccruz&theme=tokyonight&show_icons=true&hide_border=true&count_private=true"
   />
 </p>
