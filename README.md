@@ -4,6 +4,8 @@
 
 Escrevo ferramentas que trocam rotina manual por script: consultas em lote em portais públicos, leitura de documentos por OCR e aplicações locais que geram planilhas e relatórios. Gosto de coisas que rodam na máquina de quem usa, aguentam falhas no meio do caminho e não escondem o que fizeram.
 
+📫 [acallou@outlook.com](mailto:acallou@outlook.com)
+
 ---
 
 ### 🚀 Projetos
@@ -26,7 +28,7 @@ Escrevo ferramentas que trocam rotina manual por script: consultas em lote em po
 - **Gravação segura:** backup antes de alterar a planilha de origem e escrita atômica
 - **Testes offline:** parsers validados com páginas salvas e portais simulados antes de rodar ao vivo
 
-### 🤖 Tecnologias
+### 🛠️ Tecnologias e áreas
 
 <img align="left" alt="Python" title="Python" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
 <img align="left" alt="Bash" title="Bash / Shell Script" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg" />
@@ -47,11 +49,13 @@ Escrevo ferramentas que trocam rotina manual por script: consultas em lote em po
 ![openpyxl](https://img.shields.io/badge/openpyxl-217346?style=flat&logo=microsoftexcel&logoColor=white)
 ![Excel VBA](https://img.shields.io/badge/Excel%20VBA-217346?style=flat&logo=microsoftexcel&logoColor=white)
 ![Power Automate](https://img.shields.io/badge/Power%20Automate-0066FF?style=flat&logo=powerautomate&logoColor=white)
-
-### 🛠️ Áreas
+![Azure OpenAI](https://img.shields.io/badge/Azure%20OpenAI-0078D4?style=flat)
+![Claude](https://img.shields.io/badge/Claude%20API-D97757?style=flat&logo=anthropic&logoColor=white)
 
 - **Web scraping e RPA:** portais públicos com sessão, CAPTCHA e WAF; Selenium onde `requests` não basta
 - **OCR e documentos:** extração de PDFs e imagens, validação de dígitos verificadores, geração de Word e PDF
 - **Dados e relatórios:** pandas, openpyxl, dashboards HTML offline em arquivo único
+- **IA aplicada:** integração de LLMs (Azure OpenAI, Claude e APIs compatíveis com OpenAI) como recurso opcional, como a análise de contratos no `comparador-contratos` e o assistente de gastos no `feira`; uso de assistentes de código no desenvolvimento e na revisão
 - **Aplicações locais:** Flask servindo interface em HTML/JS, empacotamento para Windows
+- **Microsoft 365:** Excel VBA e Power Automate para rotinas de escritório
 - **Sistemas:** Linux no dia a dia, Windows, Bash/CMD, noções de redes
