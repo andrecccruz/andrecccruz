@@ -48,7 +48,7 @@ Débitos de IPTU em lote em cinco prefeituras, passando por CAPTCHA, com saída 
 ### 🔄 Mexido recentemente
 
 <!-- recentes inicio -->
-- [juris-br-mcp](https://github.com/andrecccruz/juris-br-mcp) · 03/11/2026
+- [juris-br-mcp](https://github.com/andrecccruz/juris-br-mcp) · 17/11/2026
 - [tvbox-r3-re](https://github.com/andrecccruz/tvbox-r3-re) · 31/10/2026
 - [tcl-tv-vb](https://github.com/andrecccruz/tcl-tv-vb) · 29/10/2026
 - [garmin_smart_trainer_mcp](https://github.com/andrecccruz/garmin_smart_trainer_mcp) · 26/10/2026
